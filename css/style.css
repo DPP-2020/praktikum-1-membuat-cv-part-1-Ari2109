@@ -17,3 +17,10 @@
 .kotak{
     list-style-type: square;
 }
+
+.serif{
+    font-family: 'Bree Serif', serif;
+}
+.sans{
+    font-family: 'Nunito Sans', sans-serif;
+}
